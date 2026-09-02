@@ -159,11 +159,12 @@ const{useState,useEffect,useMemo,useRef}=React,STORE_KEY="cut-tracker-v1",START_
 .ct .mlist .m i{width:7px;height:7px;border-radius:50%;flex-shrink:0}
 .ct .mlist .m span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .ct .mlist .m b{margin-left:auto;font-weight:600;color:var(--text);font-variant-numeric:tabular-nums;flex-shrink:0}
-.ct .body2 path.todo{stroke:var(--acc);stroke-width:5;animation:mglow 1.3s ease-in-out infinite}
-@keyframes mglow{0%,100%{opacity:1}50%{opacity:.35}}
+.ct .body2 path.todo{stroke:var(--acc);stroke-width:6;animation:mglow 1.3s ease-in-out infinite}
+@keyframes mglow{0%,100%{stroke-opacity:1;stroke-width:7}50%{stroke-opacity:.15;stroke-width:2.5}}
+@keyframes mfade{0%,100%{opacity:1}50%{opacity:.35}}
 .ct .mlegend{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin-top:10px;font-size:11px;color:var(--dim)}
 .ct .mlegend i,.ct .mlist .m i.todo{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;vertical-align:middle}
-.ct .mlegend i.todo,.ct .mlist .m.todo i{box-shadow:0 0 0 2px var(--acc);animation:mglow 1.3s ease-in-out infinite}
+.ct .mlegend i.todo,.ct .mlist .m.todo i{box-shadow:0 0 0 2px var(--acc);animation:mfade 1.3s ease-in-out infinite}
 @media (prefers-reduced-motion:reduce){.ct .body2 path.todo,.ct .mlegend i.todo,.ct .mlist .m.todo i{animation:none}}
 .ct .rtimer{position:fixed;left:14px;right:14px;bottom:calc(96px + env(safe-area-inset-bottom));max-width:532px;margin:0 auto;background:rgba(30,33,39,.96);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.09);border-radius:16px;padding:11px 14px 12px;box-shadow:0 10px 30px rgba(0,0,0,.5);z-index:5}
 .ct .rtimer .t{font-size:23px;font-weight:600;letter-spacing:-.01em;font-variant-numeric:tabular-nums;line-height:1.1}
