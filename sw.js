@@ -1,6 +1,6 @@
 /* TheCut service worker — offline app shell.
    Bump CACHE whenever app.js or index.html changes. */
-const CACHE = "thecut-v16";
+const CACHE = "thecut-v17";
 
 const SHELL = [
   "./",
