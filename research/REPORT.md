@@ -1,4 +1,6 @@
-# Where the new gaps are: buildable opportunities from 2023–2026 technology, regulation and behaviour shifts in Western Europe
+# Second-Order Europe
+
+**Buildable opportunities created by 2023–2026 technology, regulation and behaviour shifts in Western Europe, ranked and fact-checked for a small founding team.**
 
 *Research completed 6 September 2026. Eight research tracks, one verification pass, roughly 800 web searches in total. All raw track reports are in `research/raw/`; the brief is `research/00-brief.md`.*
 
