@@ -336,7 +336,7 @@ Consumers are cutting fuel (lower-income), snacks and fast food (GLP-1 household
 - GLP-1 households: grocery -5.3%, fast food about -8%, with savory snacks hit hardest — [Western Producer](https://www.producer.com/farm-family/weight-loss-pill-shakes-food-industry/)
 - Off-premise alcohol is declining (beer -3.3%, spirits -4.1%, wine -6.1%) — [FoodNavigator-USA](https://www.foodnavigator-usa.com/Article/2026/04/14/alcohol-consumption-falls-as-functional-beverages-surge-in-popularity/)
 - July 4: food spending declined in both 2024 and 2025, linked to tariff-related food inflation and fewer planned cookouts — [Stacker](https://stacker.com/stories/shopping/fourth-july-sales-show-american-consumer-still-spending-only-when-deal-right)
-- UK: Black Friday budgets cut by about a third (Omnisend), and GfK flags risk for big-ticket Christmas purchases — [Retail Gazette](https://www.retailgazette.co.uk/blog/2026/11/black-friday-discount/); [ShopAppy](https://shopappy.com/?p=12871)
+- **Europe/UK:** Black Friday budgets cut by about a third (Omnisend), and GfK flags risk for big-ticket Christmas purchases — [Retail Gazette](https://www.retailgazette.co.uk/blog/2026/11/black-friday-discount/); [ShopAppy](https://shopappy.com/?p=12871). UK footfall is down as bills keep people at home — [LBC](https://www.lbc.co.uk/article/when-black-friday-2026-5HjdjcT_2/). UK shoppers still plan to splurge on tech, and younger shoppers lift per-head spend (PwC) — [LBC](https://www.lbc.co.uk/article/when-black-friday-2026-5HjdjcT_2/)
 - Dupes: 58% have bought one, with footwear the leading category — [Circana](https://www.circana.com/post/life-imitates-brands-how-dupe-demand-is-evolving)
 - Pet owners are blending premium with budget products — [APPA](https://americanpetproducts.org/news/americas-dog-owners-are-becoming-smarter-spenders)
 
@@ -359,3 +359,4 @@ Consumers are cutting fuel (lower-income), snacks and fast food (GLP-1 household
 - No 2026 survey quantifying "little treat" or affordable-luxury spending was found. That support is inferred from McKinsey's late-2025 splurge data.
 - No 2026 goods vs experiences split (e.g., BEA PCE services vs goods share) was retrieved.
 - Category-level "cutting back" rankings from 2026 holiday surveys (PwC, Deloitte gift categories) were not retrievable because primary pages were blocked.
+- **Europe, not gathered:** EU-market splurge vs save data (e.g., McKinsey ConsumerWise Europe, the EC consumer survey's major-purchases intentions balance) and German, French, Dutch, Spanish, Italian and Nordic category trade-down data.
