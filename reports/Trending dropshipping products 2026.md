@@ -13,7 +13,7 @@ As of November 2026, the products worth dropshipping into the US and Europe shar
 - beauty tools rather than formulas
 - for the UK and EU winter, "heat the person" energy savers and 72-hour preparedness kits
 
-Trade policy forces this shape. The US has suspended de minimis for every country and adds a 10–12.5% "forced-labor" Section 301 tariff on top of the older China duties. The EU now charges €3 of duty plus a €2 handling fee per item on every low-value parcel. Together these make the sub-$20 impulse product shipped direct from China, the classic dropshipping item, unprofitable. Demand is real but selective. US holiday sales are forecast to grow 4.2%, and about half of that is inflation. Real wages are falling. UK Black Friday budgets are down about a third. Shoppers are trading down to dupes on staples while still spending on toys, hobbies, pets and small treats.
+Trade policy forces this shape. The US has suspended de minimis for every country and adds a 10–12.5% "forced-labor" Section 301 tariff on top of the older China duties. The EU now charges €3 of duty plus a €2 handling fee per item on every low-value parcel. Together these make the sub-$20 impulse product shipped direct from China, the classic dropshipping item, unprofitable. Storage, shipping and customs now add an estimated $13–17 to a single 300 g order in the US, €8–10.50 in Germany and £5–7.40 in the UK. Warehousing is the cheaper route in the EU. In the US it costs about $4 more per order but buys 2–5 day delivery, and the UK is still cheapest shipped direct from China. Demand is real but selective. US holiday sales are forecast to grow 4.2%, and about half of that is inflation. Real wages are falling. UK Black Friday budgets are down about a third. Shoppers are trading down to dupes on staples while still spending on toys, hobbies, pets and small treats.
 
 For acquisition, the cheapest customers come from four places: organic short-form video, commission-only creator affiliates on TikTok Shop, Google Shopping plus free listings (median ROAS 3.18x, with EU clicks around €0.34) and automated email flows. Paid Meta ads (1.88x median ROAS, about $39 per purchase) and TikTok ads (about 1.5x) fall below the roughly 2.5–3.3x break-even of a typical dropshipping margin. They only work with bundles, higher order values or repeat purchases. Europe offers Meta impressions 25–65% cheaper than the US and the least crowded TikTok Shop markets. In return it requires local stock, GPSR compliance and full localization. The UK is the last large market where parcels shipped direct from China still enter duty-free, and only until October 2028 at the latest.
 
@@ -78,6 +78,114 @@ The same shocks created demand.
 
 **Home coffee.** US retail coffee prices were up 18.3% year on year in January, pushing coffee-making into the home. 12% of US households now own an espresso machine, up from 8% in 2020 ([The Star](https://www.thestar.com.my/lifestyle/living/2026/01/08/for-the-love-of-coffee-high-prices-are-changing-how-consumers-take-their-daily-brew); [CoffeeBI](https://coffeebi.com/?p=296395)).
 
+## Storage, shipping and customs add $13–17 per US order, €8–11 in Germany and £5–7 in the UK
+
+Duty and ocean freight are only part of the bill. Every order also pays someone to store it, pick it, post it and clear it through customs, and those charges now decide which fulfillment model makes money in each market. No supplier, 3PL or parcel line publishes a complete 2026 rate card for small sellers. The figures below are therefore **this report's own estimates, assembled from cited building blocks, with roughly ±20–30% uncertainty**.
+
+The worked example uses these assumptions:
+
+- One 300 g item, one unit per order, worth $8 / €7.50 / £6.50 at customs. Product cost is excluded.
+- Warehouse routes bring in 500 units (about 0.75 m³ and 150 kg) and sell them over two months at 250 orders a month.
+- Normal (MFN) duty is a 4% placeholder in both the US and the EU; real rates vary by product code.
+- Euro conversions use 1 EUR ≈ 1.15 USD.
+
+| Market | Fulfillment route | Estimated storage, shipping and customs per order | Delivery | What drives the cost |
+|---|---|---|---|---|
+| US | China-direct, duty-paid (DDP) parcel line | **≈ $13** (range $10–16) | 7–15 days | ~$6 freight; $3.32 duty (4% + 25% + 12.5% on $8; $1.92 for List 4A goods); $2.77 entry fee; ~$1 clearance margin (assumed) |
+| US | Supplier US warehouse (CJ, Zendrop) | **≈ $5–6** shipping fee; ≈ $10–11 effective once inbound freight and duty built into the unit price are counted | 3–8 days | No storage fee during the free period; inbound costs are hidden in a higher product price |
+| US | Own stock at a 3PL | **≈ $17**; ≈ $17.45 during the USPS holiday surcharge; ≈ $19.50 at only 50 orders a month | 2–5 days | ~$8 USPS postage; $3 pick and pack; $3.32 duty; $2.15 inbound freight and clearance per unit |
+| Germany | China-direct parcel | **≈ €10.50** (range €9–13), plus VAT via IOSS | Median 11 days | ~€5.50 freight; €3 EU duty; €2 handling fee; each extra item category adds another €5 |
+| Germany | Own stock at a German 3PL | **≈ €8** | Domestic parcel | ~€4 DHL contract postage; ~€1.80 pick and pack; €1.41 inbound per unit; €0.30 duty |
+| Germany | Own stock at a Polish 3PL, shipped to Germany | **≈ €8.80** | Cross-border parcel | Cheaper pick and pack (~€1.20), offset by ~€5.50 cross-border postage (assumed) |
+| Germany | Supplier EU warehouse (CJ) | **≈ €4** shipping fee, plus inbound costs in the unit price | 3–7 days | CJ's own worked example |
+| UK | China-direct parcel | **≈ £5** | 3–10 working days | ~£4.50–5.50 freight; no duty at £135 or less |
+| UK | Own stock at a UK 3PL | **≈ £7.40** (≈ £6.75 using Evri) | Domestic parcel | ~£3.65 Royal Mail Tracked 48; ~£1.85 pick and pack; ~£1.30 inbound (assumed) |
+
+The building blocks are cited in the paragraphs below. The totals are this report's own arithmetic, as are the lines marked "assumed": the clearance margin, port-to-warehouse trucking, bond share, receiving, packaging, Poland-to-Germany postage and the duty rates.
+
+### Four parties bill each order, and each prices differently
+
+**Suppliers and parcel lines.** China-direct freight for light parcels runs about $4–8 for 500 g to the US ([OneShipPros](https://oneshippros.com/china-dropshipping-shipping-methods/)). YunExpress economy lines charge about $8–15 per kilo to the US and $10–20 to the UK or Germany, plus a per-parcel registration fee that dominates at low weights ([Alibaba YunExpress guide](https://www.alibaba.com/product-insights/how-to-choose-yunexpress-for-international-shipping-a-complete-buyer-s-guide.html); [RunToDropship](https://runtodropship.com/yunexpress-shipping-cost/)). CJ says its US freight now includes tariff charges and has risen about 25% ([CJ](https://blog.cjdropshipping.cn/detail/How-CJdropshipping-Helps-You-Adapt-to-New-U-S--Tariffs)). Since July, some CJ routes to the EU fold customs costs into the logistics price. One example is a "subsidized reference charge of €2 per package" that CJ says is not the official EU duty, so sellers must check what a quoted price actually covers ([CJ](https://cjdropshipping.com/blogs/cj-news/EU-Customs-Duty-Update-for-July-2026)).
+
+Supplier warehouses are the cheapest way into local stock. CJ advertises free storage in its US warehouses ([CJ service fees](https://cjdropshipping.com/service-fee)). Reviews put the free period at 60–90 days, followed by about **$0.63 per m³ per day**, or roughly $19 per m³ a month ([AliDrop](https://www.alidrop.co/blogs/cj-dropshipping-review); [Easync](https://easync.io/articles/cj-dropshipping-review/)). The real costs are the 10-unit-per-variant minimum and a higher unit price that hides inbound freight and duty. Zendrop says it charges nothing extra for storage or receiving ([Zendrop](https://www.zendrop.com/us-3pl-warehousing-fulfillment/)). Its plans run $49–79 a month, and one 2026 guide shows "US shipping $5.20" on a $39.99 item ([Unil.ink](https://unil.ink/blog/zendrop-guide-2026)). CJ's own EU example prices a warehouse product at €13 plus €4 shipping ([CJ](https://cjdropshipping.com/blogs/business-insights/How-EU-Duty-Changes-Impact-Your-2026-Dropshipping-EU-Business)). Spain's BigBuy charges €69–99 a month plus a €90 registration fee ([Minea](https://www.minea.com/dropshipping-provider/best-dropshipping-suppliers/bigbuy-reviews)).
+
+**Third-party warehouses (3PLs).** In the US, survey averages are ([Fulfill.com](https://fulfill.com/3pl-pricing)):
+
+- **pick and pack:** about $3.20 per order
+- **storage:** about $20 per pallet per month, or $0.46 per cubic foot
+- **receiving:** about $10.52 per pallet
+
+Third-party reports put ShipBob at $5 per bin, $10 per shelf and $40 per pallet a month, receiving at $35–45 an hour, and a monthly minimum near **$275** ([RevenueGeeks](https://revenuegeeks.com/shipbob-pricing/)). ShipMonk's official minimum equals monthly orders times its first-pick fee, less 20% ([ShipMonk](https://www.shipmonk.com/pricing-overview)). Extras push real invoices 20–50% above quoted rates ([Fulfill.com](https://fulfill.com/3pl-pricing)). 49% of warehouses now charge long-term storage fees, up from 23% ([eCommerce Fastlane](https://ecommercefastlane.com/how-shipbob-optimizes-storage-costs-for-fast-moving-inventory/)).
+
+Amazon's Multi-Channel Fulfillment price includes delivery. It charges about $7.53 for a small single unit on its peak rate card ([AMZ Prep](https://amzprep.com/amazon-mcf-fees/)). That reflects a January rise of $0.35–0.41, a 3.5% surcharge since 2 May and holiday fees from 15 October to 14 January.
+
+Europe is cheaper per pick:
+
+- **Germany:** €0.80–1.40 per order plus €0.20–0.60 per item. Storage is €8–15 per pallet or €28–42 per m³ a month, rising to €42–55 in Q4 ([Industrie-Fachwissen](https://industrie-fachwissen.de/lager/fulfillment-kosten-pick-pack-lager-versand-benchmark)).
+- **Poland:** €0.80–3.50 per order and €10–40 per pallet ([GetTransport](https://gettransport.com/articles/contract-logistics-poland-what-customers-pay)).
+- **UK:** £1.50–2.20 per single-item order at starter volume. April's National Living Wage rise added 3–6% ([Eightx UK index](https://eightx.co/blog/uk-fulfilment-cost-index-2026)).
+
+Named European 3PLs such as Byrd, Huboo, Zendbox and Bigblue quote each client privately instead of publishing rate cards.
+
+**Carriers.** Postage is the single biggest difference between US and European warehousing. USPS Ground Advantage commercial rates in zone 4 are about **$7.46 for 8 oz, $8.15 for 1 lb, $8.51 for 2 lb and $11.02 for 5 lb** ([Dimmath](https://dimmath.com/blog/usps-ground-advantage-rates-zone-chart-weight-breaks/)). That follows a 9.6% commercial increase in January ([Federal Register](https://www.govinfo.gov/content/pkg/FR-2025-11-19/html/2025-20281.htm)). Two surcharges apply on top of the base rates:
+
+- **8% temporary surcharge:** USPS's first ever, running from 26 April 2026 to 17 January 2027 ([Digital Commerce 360](https://www.digitalcommerce360.com/2026/03/26/usps-temporary-package-shipping-surcharge-2026/)). It appears to be already built into the post-April price tables.
+- **Holiday surcharge:** from 4 October to 17 January, stacked on the 8%. It adds $0.40 to light Ground Advantage parcels in zones 1–4 and $0.55 in zones 5–9 ([DCL Corp](https://dclcorp.com/blog/shipping/2026-usps-holiday-peak-surcharge/)).
+
+Since 12 July, USPS's published commercial rates charge every parcel under 1 lb at the 15.999 oz price. Discount platforms such as Pirate Ship keep ounce-based pricing for most shipments ([Pirate Ship](https://support.pirateship.com/en/articles/15453569-july-2026-usps-rate-and-rule-changes)). Picking the right shipping platform is now worth roughly $0.50–1.00 per light parcel.
+
+UPS and FedEx raised list rates about 5.9% for 2026 ([Supply Chain Dive](https://www.supplychaindive.com/news/fedex-2026-gri-shipping-rate-increase/760011/)). On top of that, FedEx's residential surcharge reached $6.95 ([3PL Center](https://3plcenter.com/ups-fedex-2026-rate-increases/)), its fuel surcharge reached about 30.75% from 9 November ([ShipScience](https://www.shipscience.com/?p=80623)), and its peak residential surcharge reached $0.80 from 25 October ([ShipperHQ](https://shipperhq.com/blog/carrier-rule-changes-hitting-your-shipping-and-how-to-get-ahead-of-them)). UPS has announced a further 5.9% from 21 December 2026 ([Logistics Management](https://www.logisticsmgmt.com/article/ups_announces_5.9_average_rate_increase_for_2027_effective_december_21/Pricing)). The private carriers lose to USPS on light residential parcels but can win on heavy, long-distance ones: for 5 lb to zone 8, UPS was $21.72 against $26.05 at USPS ([Ship.com](https://www.ship.com/post/cheapest-way-to-ship-a-package-2026)).
+
+European postage is far cheaper:
+
+- **DHL (Germany):** private-customer prices were unchanged for 2026, at €4.19–5.19 for a small Päckchen and €6.19 for a 2 kg Paket ([Kartonplus](https://kartonplus.de/lexikon/dhl-portotabelle-2026)). Business contracts ship parcels up to 5 kg for about **€3.20–4.50**, even after a 1 January increase ([Industrie-Fachwissen](https://industrie-fachwissen.de/lager/fulfillment-kosten-pick-pack-lager-versand-benchmark); [DHL Group](https://group.dhl.com/de/presse/pressemitteilungen/2025/dhl-paket-erhoeht-preise-fuer-geschaeftskunden.html)).
+- **PostNL (Netherlands):** €6.95 to a pickup point and €7.45 to the door, for parcels up to 10 kg ([PostNL](https://www.postnl.nl/api/assets/blt43aa441bfc1e29f2/blt5e65605bca8690e0/tarievenboekje-12-juli-2026.pdf)).
+- **Royal Mail (UK):** Tracked 48 cost about £3.61–3.75 before Royal Mail's 5 October price change ([Easyship](https://www.easyship.com/blog/cheapest-way-to-ship-royalmail); [Royal Mail](https://www.royalmail.com/prices2026)).
+- **Evri (UK):** about £2.99–3.29 per parcel ([PayoutMath](https://payoutmath-uk.pages.dev/evri-vs-royalmail-postage-uk/)).
+- **InPost (Poland):** a locker parcel costs PLN 8.90 net ([InPost](https://bliskociebie.inpost.pl/sites/default/files/docs/regulaminy/allegro-paczkomat-247-inpost-price-list-valid-01112025-2144500.pdf)). InPost added an 8.11% fuel surcharge on exports from 5 August ([Furgonetka](https://furgonetka.pl/cennik/miedzynarodowy/inpost/export/AT/austria?lang=en_GB)).
+
+**Customs.** In the US, every China-direct parcel pays the full duty stack described earlier. It also pays a Merchandise Processing Fee of **$2.77 per informal entry** from 1 October 2026; formal entries pay 0.3464%, with a $34.58 minimum ([Livingston](https://www.livingstonintl.com/cbp-to-increase-user-fees-for-fiscal-year-2027-effective-october-1-2026/)). Whether that fee also applies to the new postal entries is unconfirmed.
+
+In practice the seller has to pay duty up front (duty-paid, or DDP, shipping). When UPS bills the customer instead, its disbursement fee is 2% of the duty with a **$14 minimum** ([UPS](https://www.ups.com/vn/en/shipping/international-shipping/tariffs)), and courier entry fees can add $15–40 to a low-value import ([ThePricer](https://www.thepricer.org/the-new-cost-of-small-parcels-after-de-minimis/)). Blog claims of $150–350 broker fees per dropshipped order describe formal entries above $2,500, not small parcels.
+
+In the EU, parcel charges are the €3 duty per item category and the €2 handling fee per item described earlier, plus VAT. The handling fee is non-refundable ([Hellotax](https://hellotax.com/blog/eu-3-euro-customs-duty-2-euro-handling-fee/)). The UK charges no duty on consignments of £135 or less, so China-direct parcel costs there are essentially unchanged.
+
+### Bulk inbound freight is mostly fixed fees at small volumes
+
+Holding your own stock means paying to bring it in bulk:
+
+- **LCL (shared-container) to the US:** about **$40–80 per cubic meter, with a $150–300 minimum** ([ExFreight](https://www.exfreight.com/shipping-from-china-to-us/)), or $45–180 depending on the coast ([Ship4wd](https://ship4wd.com/logistics-shipping/shipping-from-china-to-usa)).
+- **LCL to northern Europe:** about $70–150 per cubic meter ([FreightAmigo](https://www.freightamigo.com/en/blog/logistics/lcl-shipping-rates-transport-and-containers-2026-guide/)). One forwarder quoted Shanghai–Rotterdam at $65 per cubic meter, with a 2 m³ minimum, for early-November sailings ([Goodhope Freight](https://goodhopefreight.com/netherlands/2026-lcl.html)).
+- **Air freight:** roughly $6 per kg to North America and $3.50–5 per kg to Europe, though the dates on those indices are unclear ([STAT Times](https://www.stattimes.com/air-cargo/global-air-cargo-rates-ease-after-peak-season-freightos-data-shows-1357688)).
+
+Fixed fees dominate small shipments. A US formal entry adds a customs broker ($125–350), an Importer Security Filing (about $50) and a continuous customs bond (about $500 a year). On top come the $34.58 minimum processing fee and a 0.125% harbor maintenance fee ([ExFreight](https://www.exfreight.com/shipping-from-china-to-us/)). In Europe, unpacking a shared container at Rotterdam costs €80–200 ([FreightAmigo](https://www.freightamigo.com/en/blog/logistics/lcl-shipping-rates-transport-and-containers-2026-guide/)) and customs clearance €200–400 ([Topway](https://www.topwayshipping.com/lcl-or-fcl-a-practical-guide-for-china-germany-shippers/)).
+
+In the worked example, a 500-unit, 150 kg shipment carries about $1,075 of inbound costs into the US (**$2.15 per unit**) and about €703 into Germany (**€1.41 per unit**). At 2,000 units those fall to roughly $0.50–0.70 and €0.40–0.50 per unit.
+
+Bulk import does not lower the US duty rate. What it does is replace per-parcel entry fees and clearance margins with a single formal entry. EU bulk import avoids the €3 and €2 parcel charges entirely: it pays the product's normal tariff, and a VAT-registered importer can normally reclaim the import VAT. Air freight for the same 150 kg would cost about $900, against an LCL minimum of $150–300. LCL therefore saves $400–600, but adds four to six weeks of transit with the stock in limbo.
+
+### Returns cost $11–15 in the US and about €5–8 in Germany
+
+87% of US warehouses charge a returns fee, averaging **$3.56 per return** in 2026 ([Racklify](https://racklify.com/encyclopedia/query/returns-processing-fee-3pl/)). Inspection and grading add $2–5 ([Eightx](https://eightx.co/blog/average-ecommerce-returns-processing-cost-per-item-by-vertical-2026)). Add a return label priced like outbound postage, and a US return costs about **$11–15** before any write-off.
+
+In Germany a return costs about €5–8: a €3.20–4.50 contract label plus €1–3 handling. In the UK it costs about £5–7, and Polish 3PLs charge €0.50–2.00 for returns handling ([GetTransport](https://gettransport.com/articles/contract-logistics-poland-what-customers-pay)).
+
+China-direct sellers have no economic way to bring goods back, so a return usually means a refund without a return. The product, the outbound freight and, in the EU, the non-refundable handling fee are all lost. Online returns run near 19% of orders ([Richpanel/NRF](https://www.richpanel.com/learn/ecommerce-return-rates)), and the EU gives buyers a 14-day right to withdraw. For products where fit matters, returns can therefore cancel out Europe's cheaper picking.
+
+### The cheapest route differs on each side of the Atlantic
+
+**In the EU, warehousing is cheaper per order than China-direct.** A single item costs about €8 from a German 3PL against about €10.50 China-direct. The gap widens by €5 for every extra item category in a China-direct parcel. That is before counting faster delivery and the GPSR requirement for an EU-based responsible person.
+
+**In the US, warehousing costs about $4 more per order (≈ $17 vs ≈ $13) but buys 2–5 day delivery.** The penalty comes almost entirely from USPS last-mile postage of around $8. TikTok Shop's US dispatch rules and Visa's 1.5% chargeback threshold make fast delivery a requirement, not a luxury. If USPS's 8% and holiday surcharges lapse on 17 January without replacement, the US warehouse route could fall by about $0.60–1.00 per order; this is unverified.
+
+**The UK is still cheapest China-direct:** about £5 against £7.40 from a UK 3PL, until the duty relief ends by October 2028.
+
+**Fixed monthly minimums punish low volume.** A $275 minimum turns $3 pick and pack into about $5.50 per order at 50 orders a month. That lifts the US 3PL route to about $19.50 per order. Full-service 3PLs only make sense above roughly 90–110 orders a month.
+
+**Supplier warehouse programs are the low-commitment middle path.** CJ and Zendrop charge about $5–6 per US order, with free storage for the first 60–90 days and no 3PL minimums. The price is a 10-unit-per-variant buy-in, a markup that hides inbound costs, and no control over packing quality.
+
+A single US order already carries $13–17 of shipping, storage and customs before the cost of the product itself. That is why the product lanes below rely on bundles that lift orders into the $30–80 range.
+
 ## Squeezed shoppers trade down on staples but splurge on small joys
 
 Headline holiday forecasts look strong, but higher prices inflate them:
@@ -124,7 +232,7 @@ A product now has to clear six filters at once:
 3. **No standalone lithium battery.** USPS international mail accepts lithium batteries only when installed in equipment ([USPS Pub 52](https://pe.usps.com/text/pub52/pub52apxc_033.htm)), and power banks are in a recall wave that includes Casely's 429,200 units ([CPSC](https://cpsc.gov/Recalls/2026/Casely-Reannounces-Recall-of-Wireless-Portable-Power-Banks-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-One-Fatality-Reported-After-2025-Recall)).
 4. **Outside heavily regulated classes**: things people swallow, formulated cosmetics, children's products and anything sold with medical claims.
 5. **Free of other companies' trademarks, characters or designs.**
-6. **Able to reach a $30–80 order value through bundles.** The EU's €3 duty is charged per item category, and US entry costs are charged per parcel, so bigger single-category orders spread the fixed costs.
+6. **Able to reach a $30–80 order value through bundles.** The EU's €3 duty is charged per item category, and US entry costs are charged per parcel, so bigger single-category orders spread the fixed costs. A single US order already carries $13–17 of logistics and customs.
 
 The lanes below pass. The table summarizes the evidence, and the paragraphs after it explain the angle for each.
 
@@ -240,7 +348,7 @@ The sensible sequence starts in the UK. It has English-language creative, a matu
 
 The most reliable cross-platform dataset is Triple Whale's first-party tracking across more than 40,000 e-commerce brands from August 2025 to July 2026. For Meta it shows a median CPM of $15.06, ROAS (return on ad spend) of 1.88, cost per purchase of $38.99 and click-through rate of 2.39%. Google's median ROAS was 3.18 and Pinterest's 2.06 ([Triple Whale](https://www.triplewhale.com/blog/whats-a-good-roas)). TikTok's median CPM fell 24% to $4.08, but its conversion rate fell about 37% and median ROAS was 1.51 ([Triple Whale](https://www.triplewhale.com/blog/tiktok-benchmarks)). Cheaper reach did not produce cheaper customers. Meta's own Q3 filing shows the average price per ad up 14% year on year ([Meta 8-K](https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066700/meta-09302026xexhibit991.htm)).
 
-Break-even ROAS equals one divided by contribution margin. A typical 30–40% dropshipping margin therefore needs about 2.5–3.3x ROAS to break even, so the median Meta or TikTok account loses money on a customer's first order. A worked example shows the gap. Take a $40 product with the classic 3x markup, so landed cost is about $13.30. At Meta's 1.88x median ROAS, ad spend consumes about 53% of revenue. That leaves about 14% before payment fees, chargebacks and returns, which run at 19.3% of online orders ([Richpanel/NRF](https://www.richpanel.com/learn/ecommerce-return-rates)).
+Break-even ROAS equals one divided by contribution margin. A typical 30–40% dropshipping margin therefore needs about 2.5–3.3x ROAS to break even, so the median Meta or TikTok account loses money on a customer's first order. A worked example shows the gap. Take a $40 product with the classic 3x markup, so landed cost is about $13.30. At Meta's 1.88x median ROAS, ad spend consumes about 53% of revenue. That leaves about 14% before payment fees, chargebacks and returns, which run at 19.3% of online orders ([Richpanel/NRF](https://www.richpanel.com/learn/ecommerce-return-rates)). For a single item in the US, even the 3x markup is generous, because shipping, storage and customs alone add about $13–17 per order before product cost.
 
 Cold Meta traffic therefore pays only when one of three things holds:
 
@@ -338,4 +446,8 @@ The right method is therefore to choose products by their channel economics rath
 
 The calendar sets the strategy. The 9–10 January 2027 US–China deadlines could move China duties again. The de minimis repeal in US law on 1 July 2027 makes the parcel model's end permanent on a bipartisan basis. The EU's flat €3 duty gives way to full classification-based duties around July 2028, and the UK's duty-free window closes by October 2028. Sellers should treat the UK as a temporary testing ground, build EU warehouse stock now, and price every SKU for duties that persist.
 
-Much of the evidence comes from vendors: most product-level and ad benchmarks are published by trackers, agencies and suppliers with a commercial interest. European demand data is thinner than US data, actual Black Friday 2026 results are not yet available, and the Strait of Hormuz's status is contested. The twelve lanes are best treated as well-supported hypotheses, each tested cheaply with organic content and creator affiliates before any money goes into paid media.
+Much of the evidence comes from vendors: most product-level and ad benchmarks are published by trackers, agencies and suppliers with a commercial interest. European demand data is thinner than US data, actual Black Friday 2026 results are not yet available, and the Strait of Hormuz's status is contested. The cost figures have their own gaps:
+
+- No official 2026 rate cards were found for CJPacket, YunExpress or 4PX, so China-direct freight is interpolated from secondary and partly dated sources.
+- Nearly all 3PL prices are third-party estimates, because ShipBob, ShipMonk, Byrd, Huboo and most others quote privately.
+- The per-order worked examples rest on several assumed lines (clearance margins, port-to-warehouse trucking, bond share, Poland-to-Germany postage and duty rates), so they should be read as ±20–30%. The twelve lanes are best treated as well-supported hypotheses, each tested cheaply with organic content and creator affiliates before any money goes into paid media.
