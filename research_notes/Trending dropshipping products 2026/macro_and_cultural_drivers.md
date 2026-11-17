@@ -119,6 +119,15 @@ Every major forecaster expects the strongest nominal holiday growth in years: NR
 - Numerator: more than a third of shoppers completed **at least half** of their holiday shopping during Prime Big Deal Days — [Chain Store Age/Numerator](https://chainstoreage.com/numerator-amazon-prime-big-deal-days-produces-strong-spending)
 - An Adobe October recap headline attributes October online gains to "AI, promotions, home spend". Details were not retrievable — [HomePage News](https://www.homepagenews.com/retail-articles/adobe-october-online-sales-gains-boosted-by-ai-promotions-home-spend/)
 
+**Europe (UK + EU) holiday / Black Friday forecasts**
+- **UK online (Adobe):** Nov-Dec 2026 UK online spend forecast at **£28.52bn, +6.2%**, within a Q4 total of about £40bn. One report puts the festive total at £38.5bn with the same 6.2%, so the headline figures don't fully agree — [Retail Tech Innovation Hub, 5 Nov 2026](https://retailtechinnovationhub.com/home/2026/11/5/brits-set-for-record-2852-billion-festive-online-spend-amid-surge-in-ai-driven-shopping)
+- **UK Black Friday/Cyber Monday (Omnisend):** spend forecast **down 32% to £9.9bn** even though more shoppers are expected to participate — [Retail Gazette, Nov 2026](https://www.retailgazette.co.uk/blog/2026/11/black-friday-discount/). A separate Omnisend figure of almost £14bn appears tied to the 2025 event dates (28-30 Nov), so treat it as **[older]** — [Express & Star](https://www.expressandstar.com/news/britons-set-to-spend-ps4bn-more-this-black-friday-despite-scam-fears-5655731)
+- **UK Black Friday (Barclays):** **45%** of Black Friday participants plan to buy Christmas gifts at a discount — [Retail Times](https://retailtimes.co.uk/barclays-uk-shoppers-set-to-spend-10-2bn-in-the-black-friday-sales/)
+- **UK timing (Mintel):** Christmas shoppers are expected to "leave it late", using Black Friday for gift planning — [Mintel](https://www.mintel.com/press-centre/christmas-shoppers-to-leave-it-late-this-year/)
+- **UK (PwC):** softer overall interest in Black Friday, but higher per-head spend led by younger shoppers and tech — [LBC](https://www.lbc.co.uk/article/when-black-friday-2026-5HjdjcT_2/)
+- **UK market context:** survey research says Black Friday has overtaken Boxing Day as Britain's biggest shopping event (date of research not confirmed) — [Attest](https://www.askattest.com/blog/research/black-friday-beats-boxing-day-to-become-britains-biggest-shopping-event.md)
+- **EU mainland (DE/FR/NL/ES/IT/Nordics):** no 2026 Christmas or Black Friday forecasts were gathered (search budget exhausted). See Gaps.
+
 **Calendar**
 - Mastercard notes that Cyber Monday lands in November this year — [Mastercard](https://www.mastercard.com/us/en/news-and-trends/stories/2026/2026-holiday-shopping-forecast.html). By calendar: Thanksgiving is 26 Nov, Black Friday 27 Nov, Cyber Monday 30 Nov 2026, one day earlier than in 2025.
 
@@ -132,12 +141,22 @@ Every major forecaster expects the strongest nominal holiday growth in years: NR
 - Online growth (Mastercard +11%, Adobe +6.7%, Deloitte +7.5-8.4%) far outpaces total retail, and mobile carries about 57%. Mobile-first creative, short-form video and social commerce (growing 9x faster per Salesforce) are the key acquisition channels for dropshippers this season.
 - Shopping is bimodal: early buyers in October (Prime) and a large Thanksgiving-weekend cohort (64%). For dropshippers, the critical window is 20 Nov-2 Dec, followed by shipping-cutoff risk for overseas fulfillment in mid-December.
 - Electronics and gaming (Mastercard +10.7% YTD; Prime-event video games +90%) and toys (+158%) are the strongest category signals. Accessories and adjacent low-ticket items in these ecosystems are the dropship-friendly angle.
+- **US vs UK contrast:** US forecasts show the fastest nominal holiday growth in years, while the UK shows modest online growth (+6.2%) but sharply lower Black Friday budgets (-32%) and weak confidence. UK campaigns should lean harder on Black-Friday-as-Christmas-gifting, bundles and price anchoring. The UK and EU share the 27 Nov Black Friday date, and Cyber Monday (30 Nov) is also a growing event in Europe. Shipping cutoffs for Christmas delivery from Asian suppliers into the EU and UK need to be set earlier than for domestic fulfillment.
 - Early 2027 looks softer: possible Fed hikes, BNPL repayments, tariff persistence and still-elevated energy costs. January demand may skew to "resolution" categories (GLP-1-adjacent wellness, fitness, Dry January/NA) and value. Divided government makes major new tariff legislation unlikely, but executive tariff actions and litigation continue.
 
 ### Gaps
 - PwC, Bain, Accenture, Circana and NielsenIQ holiday category rankings (top gift categories) were not retrieved in detail. Adobe's category-level discount calendar (peak discounts by category) was not retrieved because fetch was blocked.
 - No live Black Friday or Cyber Week 2026 actuals exist yet (the date is 17 Nov). Adobe and Salesforce will publish from 27 Nov onward.
 - The October 2026 Census retail sales release was not captured.
+- **Europe, priority follow-ups (not gathered):**
+  - HDE (Germany) Christmas sales forecast 2026 and German Black Friday/Cyber Monday forecast.
+  - FEVAD and Procos (France) year-end forecasts.
+  - Thuiswinkel.org (Netherlands) Black Friday forecast.
+  - Spain and Italy Black Friday spend forecasts (e.g., Confcommercio, Spanish payment-provider data).
+  - Nordic Black Friday/"Black Week" data (Sweden's Svensk Handel, Denmark's Dansk Erhverv).
+  - Adobe, Salesforce and Klarna Europe-wide holiday forecasts.
+  - BRC/KPMG UK retail sales monitor for October 2026.
+  - Deloitte's European Christmas Survey 2026.
 
 ---
 
@@ -184,6 +203,13 @@ The strongest structural demand shifts in 2026 are GLP-1 adoption (now in pill f
 - Reported (unverified) figures: Pop Mart H1 2026 revenue +23.8% to RMB 17.17B; resale boxes averaging about $6 vs a $26.99 list price; JPMorgan noted soft first runs for newer IPs (Supertutu, Merodi, KeyA). One source claims a 45-50% Q3 revenue decline, which conflicts with the H1 growth figure — [Inside Retail Asia](https://insideretail.asia/2026/10/30/can-pop-mart-sustain-growth-as-the-labubu-craze-fades/); [Asian Century Stocks](https://www.asiancenturystocks.com/has-the-labubu-bubble-popped/); [Procurement Magazine](https://procurementmag.com/news/pop-mart-rise-fall-labubu-supply-chain)
 - Regulation: China has banned blind-box sales to children under 8, and Singapore is drafting rules — [Exploding Topics](https://explodingtopics.com/blog/blind-box-trends); [Open The Magazine](https://openthemagazine.com/business/explained-can-pop-mart-sell-labubu-without-the-hype)
 
+**Europe-specific cultural signals**
+- **GLP-1 in the UK/EU:** PwC UK lists the UK Wegovy pill for June 2026 and orforglipron's UK launch for 2027, so UK pill access lags the US by about 6-12 months — [PwC UK "Appetite for disruption"](https://www.pwc.co.uk/industries/retail-consumer/appetite-for-disruption-what-glp-1-means-for-consumer-markets.pdf). IGD (UK grocery research body) analyzes "the next access wave of GLP-1s" — [IGD](https://www.igd.com/articles/the-next-access-wave-of-glp-1s/72902)
+- **UK Gen Z leisure:** Stylus's 2026-27 UK Gen Z leisure trends report lists sober-curious raves and immersive low-alcohol tea experiences among emerging social formats — [Stylus](https://stylus.com/hospitality-leisure/h-l-gen-z-leisure-trends-26-27)
+- **France analog/vinyl:** 40% of French 18-24-year-olds bought a vinyl record in 2024 **[older]**. French trade press frames analog as a refuge from AI and filter bubbles — [La Réclame](https://lareclame.fr/tendances-analogique-genz-marques-331048)
+- **Blind-box regulation outside the US:** China bans blind-box sales to under-8s and Singapore is drafting rules. No EU or UK blind-box rules were found — [Exploding Topics](https://explodingtopics.com/blog/blind-box-trends)
+- **Euromonitor 2026 global trends** (Comfort Zone, Rewired Wellness, Next Asian Wave) are global, not US-specific, and apply to European consumers — [Euromonitor](https://www.euromonitor.com/article/what-are-the-top-consumer-trends-in-2026). The Global Wellness Summit 2026 report also covers social saunas and contrast therapy, a strongly Nordic-rooted trend — [GWS 2026 Trends](https://www.globalwellnesssummit.com/wp-content/uploads/2026/01/2026_GWS_Trends-Report_012626-DIGITAL-v1.pdf)
+
 **Aging consumers**
 - Consumers 55+ drove the largest increase in dupe purchasing in 2026 vs 2024 — [Circana](https://www.circana.com/post/life-imitates-brands-how-dupe-demand-is-evolving). Mintel's "New Young" frames midlife and longevity as a growth market — [Mintel/PR Newswire](https://tools.prnewswire.com/en-us/live/20823/release/20251008EN92048)
 
@@ -192,6 +218,7 @@ The strongest structural demand shifts in 2026 are GLP-1 adoption (now in pill f
 - High-tech "rewired" wellness and analog "anti-tech" wellness are simultaneous, not contradictory. Both support dropship niches: at-home diagnostics-adjacent gadgets, red-light and recovery devices, sleep tech, and wearables accessories on one side; crafts, yarn, journaling, puzzles, film-camera and vinyl accessories, and "dumbphone"-adjacent items on the other.
 - The moderation trend favors NA and mocktail accessories (glassware, shakers, mixers, gift kits) more than alcohol-dependent barware, with spikes for Dry January 2027.
 - Pet spending remains a resilient growth category (+4.4%), but owners blend premium and budget. Premium-looking accessories (beds, enrichment toys, travel gear) at value prices fit.
+- **Europe:** the GLP-1 product wave (resized apparel, protein and portion tools, strength gear) should arrive in the UK and EU later and smaller than in the US. UK pill access starts mid-2026, and EU reimbursement is narrower (inference). That makes the theme an early-2027 opportunity in Europe rather than a peak-2026 one. Analog and digital-detox and moderation drinking appear as strong in Europe as in the US, with sauna and recovery culture a distinctly European angle.
 - Labubu-style blind-box crazes have peaked and resale prices are collapsing. Inventory-heavy bets on specific licensed IP are risky. The broader "collectible/surprise" mechanic persists, but regulatory scrutiny of blind boxes for kids is rising.
 
 ### Gaps
@@ -201,6 +228,14 @@ The strongest structural demand shifts in 2026 are GLP-1 adoption (now in pill f
 - **Gen Alpha** trends were not researched.
 - No 2026 data was found tying the sober-curious trend specifically to Gen Z purchase spending. NCSolutions' +44% interest figure is **[older: 2024-25]** — [Vinetur](https://www.vinetur.com/en/amp/2025103192853/non-alcoholic-beer-sales-surge-22-as-nearly-half-of-americans-cut-back-on-drinking.html).
 - The APPA category splits conflict across secondary sources (food/treats $65.8B vs $68.3B for 2025).
+- **Europe, not gathered:**
+  - EU GLP-1 adoption figures and national reimbursement status.
+  - FEDIAF European pet-industry data.
+  - EU non-alcoholic beverage growth (e.g., NIQ Europe, IWSR).
+  - UK/EU dupe culture data (e.g., Mintel UK).
+  - Labubu/Pop Mart European store performance.
+  - EU Gen Z trend data.
+  - Aging-population consumption in Germany, Italy and Japan-like EU markets.
 
 ---
 
@@ -220,6 +255,7 @@ The dominant 2026 events for consumer demand were the **Iran war energy shock** 
 - Gains concentrated in **electronics, food and drinks, and licensed merchandise**, and in businesses near venues and fan zones. The boost was narrower than in prior tournaments — [Modern Retail](https://www.modernretail.co/marketing/the-world-cup-provided-a-much-needed-boost-to-the-retail-industry-this-summer/); [Coresight](https://coresight.com/research/capitalizing-on-the-moment-what-the-fifa-world-cup-2026-reveals-about-retails-attention-economy/)
 - Pre-tournament forecasts: Numerator projected **$7.5B** in consumer goods spending — [Chain Store Age](https://chainstoreage.com/numerator-world-cup-could-drive-75b-consumer-spending). UK forecast £3.80bn total, including £325m electricals, £297m sportswear and £133m merchandise — [A1 Retail Magazine](https://www.a1retailmagazine.com/?p=55350); [Retail Insight Network](https://www.retail-insight-network.com/news/retailers-pin-sales-hopes-on-world-cup-boost/). Canada: billions in expected North American retail spending — [Retail Insider (Canada)](https://retail-insider.com/retail-insider/2026/06/2026-fifa-world-cup-expected-to-drive-billions-in-retail-spending-across-north-america-industry-experts-say/)
 - AlixPartners cautions that a strong World Cup quarter may have inflated restaurant results — [AlixPartners](https://www.alixpartners.com/insights/102nhw1/state-of-the-consumer-2026-past-the-peak/)
+- **Europe/UK:** UK consumers were forecast to spend **£3.80bn** over the tournament, including £325m on electricals, £297m on sportswear and £133m on merchandise — [A1 Retail Magazine](https://www.a1retailmagazine.com/?p=55350); [Retail Insight Network](https://www.retail-insight-network.com/news/retailers-pin-sales-hopes-on-world-cup-boost/). A UK retail-tech piece framed an England semi-final as "bigger than 90 minutes" for retail, implying England reached the semi-finals — [Retail Technology Show](https://hub.retailtechnologyshow.com/retail-radar/tonights-england-semi-final-is-bigger-than-90-minutes.-smart-retailers-know-it). GfK data from the 2014 tournament show UK TV sales values rising sharply ahead of a World Cup **[older]** — [Retail Insight Network](https://www.retail-insight-network.com/news/retailers-pin-sales-hopes-on-world-cup-boost/). Kick-off times in North America fell in the European evening and late night, favoring at-home viewing (inference).
 
 **US 250th anniversary (4 Jul 2026)**
 - NRF forecast July 4 spending of **$9.4B** (vs $8.9B in 2025) and record per-person food spend of **$94.41**, with 87% planning to celebrate — [NRF blog](https://cdn.nrf.com/blog/a-summer-of-spending-on-celebrations-and-community). Numerator's estimate was much higher at about $22B, and others cited $15B+, so estimates conflict on definitions — [Chain Store Age](https://chainstoreage.com/numerator-july-4-spending-could-total-nearly-22-billion); [SelfEmployed](https://www.selfemployed.com/news/july-4-2026-spending-250th-anniversary/)
@@ -243,7 +279,12 @@ The dominant 2026 events for consumer demand were the **Iran war energy shock** 
 - The midterm result signals a populace angry about prices. Expect continued value framing in marketing and no near-term federal relief on tariffs or cost of living.
 
 ### Gaps
-- **Milan-Cortina Winter Olympics (Feb 2026)**: no consumer-demand data was researched or found.
+- **Milan-Cortina Winter Olympics (Feb 2026)**: no consumer-demand data was researched or found. It is especially relevant to Italy and the Alpine/Nordic markets (winter-sports gear, apparel).
+- **Europe, not gathered:**
+  - How the 2026 oil shock hit EU energy bills and confidence.
+  - European summer 2026 heatwaves and their effect on demand for fans, air conditioners and cooling products (Southern Europe has low AC penetration, so heat waves drive spikes).
+  - Post-World Cup retail actuals for the UK, Germany, France, Spain and the Netherlands.
+  - National elections or political events in major EU markets in 2026.
 - **Public-health events in 2026**: none were researched or surfaced.
 - **Wildfire season 2026** and the actual hurricane landfalls of 2026: not found. No 2026 generator or portable-power sales data was found; Generac rally articles were from 2025.
 - Post-event actuals for July 4 2026 (NRF or Census) were not found.
@@ -258,7 +299,7 @@ The dominant 2026 events for consumer demand were the **Iran war energy shock** 
 
 ### Cited Findings
 - Adobe: AI-referred traffic to US retail sites **+130% YoY** this season, with peaks on Thanksgiving (+159%), Black Friday (+95%) and Cyber Monday (+88%) — [Adobe](https://news.adobe.com/news/2026/09/adobe-us-holiday-shopping-season-to-hit-record); [Relevant Audience](https://www.relevantaudience.com/ecommerce-marketing/adobe-2026-holiday-forecast-275-billion-ai-traffic-130-percent/). Adobe's report says 69% are less likely to return items bought with AI-assistant help (as reported in search summary) — [Adobe forecast PDF](https://business.adobe.com/assets/resources/holiday-shopping-report/2026/pdf/2026-adobe-digital-insights-holiday-forecast.pdf)
-- Adobe UK forecast: AI traffic +214%. Adobe overestimated AI-referred traffic last year, so read with caution — [Retail Tech Innovation Hub](https://retailtechinnovationhub.com/home/2026/11/5/brits-set-for-record-2852-billion-festive-online-spend-amid-surge-in-ai-driven-shopping)
+- **Europe/UK:** Adobe forecasts UK AI-referred retail traffic **+214%** this festive season, even faster than the US (+130%), but Adobe overestimated AI-referred traffic last year, so read with caution — [Retail Tech Innovation Hub](https://retailtechinnovationhub.com/home/2026/11/5/brits-set-for-record-2852-billion-festive-online-spend-amid-surge-in-ai-driven-shopping). Salesforce runs separate EMEA holiday prediction sessions for 2026, but the EMEA figures were not retrieved — [Salesforce UK](https://www.salesforce.com/uk/events/webinars/2026-salesforce-holiday-predictions-emea)
 - Salesforce: **20%** of 2026 holiday e-commerce traffic will originate from AI chat agents. **1 in 3** e-commerce sites will have a site-specific shopper agent live by Cyber Week. Reliance on AI assistants as a "first stop" rose **200%** between May 2025 and May 2026. In 2025, brands with shopper agents grew +6.2% vs +3.9% for those without — [Salesforce](https://www.salesforce.com/blog/holiday-retail-predictions-2026/); [Chain Store Age](https://chainstoreage.com/five-2026-holiday-predictions-salesforce); [HomePage News](https://www.homepagenews.com/retail-articles/salesforce-holiday-e-commerce-grows-as-ai-drives-higher-intent-conversion-rates/)
 - Bain (n=1,105): **24%** of online buyers plan to start holiday shopping on AI platforms (ChatGPT, Gemini, Claude), up from 17% in 2025. Accenture: 4 in 10 US shoppers will use gen AI this season (vs 3 in 10). Shopify: 65% will use AI for at least one shopping task — [eMarketer](https://www.emarketer.com/content/gift-ideas--now-by-prompt--inside-2026-s-ai-holiday-shift); [Shopify](https://shopify.com/news/agentic-holiday-2026); [PYMNTS](https://www.pymnts.com/?p=4190028)
 - Trust gap: only **16%** of consumers trust AI agents to complete purchases (Deloitte via eMarketer) — [eMarketer](https://www.emarketer.com/content/gift-ideas--now-by-prompt--inside-2026-s-ai-holiday-shift)
@@ -277,6 +318,9 @@ The dominant 2026 events for consumer demand were the **Iran war energy shock** 
 - No independent (non-vendor) measurement of AI-referred conversion rates in 2026 was found. Most figures are from Adobe, Salesforce, Shopify, Bain or payment networks.
 - Perplexity- and Google-specific (AI Mode) shopping adoption numbers for 2026 were not retrieved.
 - The share of AI shopping traffic going to marketplaces vs DTC sites was not found.
+- **Europe, not gathered:**
+  - Availability of ChatGPT Instant Checkout and agentic checkout in the EU and UK. US launches often lag in the EU because of DMA, GDPR and EU AI Act constraints; this is a hypothesis to verify.
+  - EU consumer AI-shopping adoption surveys.
 
 ---
 

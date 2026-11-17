@@ -1,4 +1,4 @@
-# Health, Wellness, Beauty, Personal Care & Pet Products: Demand Trends for Dropshipping (as of mid-November 2026)
+# Health, Wellness, Beauty, Personal Care & Pet Products: Demand Trends for Dropshipping, US + EU/UK (as of mid-November 2026)
 
 Research notes compiled 2026-11-17. **Scope: US and Europe (EU + UK) are co-primary markets** (scope updated mid-task by the coordinator).
 
@@ -295,7 +295,7 @@ Menopause and perimenopause is a growing, under-served niche (~8–12% forecast 
 ## 7. Tariff exposure: which products are most exposed, and which are commonly made outside China?
 
 ### Takeaway
-As of November 2026, de minimis is gone for China/HK (since May 2025) and suspended for all countries (since Aug 2025, made indefinite June 2026). Every parcel needs a formal entry and duties. After the Supreme Court struck down IEEPA tariffs (Feb 2026) and Section 122 surcharges lapsed (July 2026), a new Section 301 tariff (12.5% for China and ~60 economies) took effect July 24, 2026, on top of pre-existing China Section 301 duties. China-made pet products and electronic wellness/beauty devices carry the highest stacked rates. Korean cosmetics now face ~12.5–15% tariffs. Sources are mostly vendor blogs and conflict on specific rates.
+As of November 2026, de minimis is gone for China/HK (since May 2025) and suspended for all countries (since Aug 2025, made indefinite June 2026). Every parcel needs a formal entry and duties. After the Supreme Court struck down IEEPA tariffs (Feb 2026) and Section 122 surcharges lapsed (July 2026), a new Section 301 tariff (12.5% for China and ~60 economies) took effect July 24, 2026, on top of pre-existing China Section 301 duties. China-made pet products and electronic wellness/beauty devices carry the highest stacked rates. Korean cosmetics now face ~12.5–15% tariffs. Sources are mostly vendor blogs and conflict on specific rates. In Europe, the binding constraints are compliance rather than tariffs: GPSR responsible operator (sourced), cosmetics RP/CPNP, EPR, and the phase-out of EU/UK low-value import relief (unverified background).
 
 ### Cited Findings
 - China/HK lost commercial de minimis on May 2, 2025. CBP made the global de minimis suspension indefinite in June 2026. The Feb 2026 Supreme Court IEEPA ruling did not restore de minimis, since that rests on separate authority. — [Nventory](https://nventory.io/blog/2026-us-tariff-changes-ecommerce-sellers); [DoDropshipping](https://dodropshipping.com/dropshipping-tariffs/)
@@ -318,9 +318,22 @@ As of November 2026, de minimis is gone for China/HK (since May 2025) and suspen
 - **Commonly made outside China:** K-beauty (Korea; ~12.5–15% exposure), J-beauty (Japan; similar new-301 exposure), dietary supplements (largely US contract manufacturers, so domestic-origin product avoids import duty; this is general knowledge, not sourced here), some pet treats/chews (US, Thailand), textiles/beds (Vietnam, India, Bangladesh increasingly), and Laifen-type hair tools (Chinese brand; origin China). Under the July 2026 rule, a 12.5% floor reportedly applies to most of 60 economies, so "made outside China" reduces but does not eliminate exposure.
 - **Practical model shift:** with de minimis gone, the economics favor US-warehoused inventory (bulk-imported, duties paid once) over parcel-by-parcel cross-border dropshipping, especially for low-AOV items where per-parcel entry fees and duties eat margin.
 - **For EU/UK sales,** pure China-to-consumer dropshipping is effectively non-compliant without an EU responsible person under GPSR. Cosmetics additionally require an EU/UK Responsible Person and CPNP/SCPN notification (general knowledge; not sourced in this pass).
+- **[EU/UK background, unverified in session] EU low-value import changes:**
+  - The EU removed the €22 VAT exemption in July 2021 (IOSS), so VAT is already due on every parcel.
+  - EU institutions agreed in late 2025 to abolish the €150 customs-duty exemption. An interim flat customs duty of about €3 per item on low-value e-commerce parcels was slated to apply from 1 July 2026, ahead of the EU Customs Data Hub (~2028). A separate per-parcel handling fee was also proposed.
+  - If in force, this hits low-AOV China-direct parcels (mouth tape, press-on nails, pet toys) hardest. Verify the current status and date.
+- **[EU/UK background, unverified] UK:**
+  - The UK announced it will end the £135 low-value customs-duty relief (by 2029 at the latest); VAT is already collected at point of sale.
+  - The Product Regulation and Metrology Act 2025 gives the government powers to impose product-safety duties on online marketplaces. GB general product safety law and OPSS enforcement apply in the meantime.
+  - Details and commencement dates for 2026 were not verified.
+- **[EU/UK background, unverified] EPR is a Europe-specific dropship barrier.** Germany (VerpackG/LUCID packaging register, ElektroG for electronics) and France (Triman/AGEC, multiple EPR streams) require per-country producer registration. Marketplaces (Amazon.de/.fr) block non-registered sellers. This affects nearly every category in these notes.
+- **Tariffs in Europe vs. the US:** the US tariff stack (Section 301 on China plus the new 12.5% Section 301) has no direct EU/UK equivalent. EU/UK duties on these goods are standard MFN rates (low single digits for many cosmetics and plastic/textile goods; higher for some apparel/textiles). For China-made goods, Europe may therefore be *less* tariff-exposed than the US. The binding constraints in Europe are compliance (GPSR/RP/CPNP/EPR) and the end of low-value relief, not tariffs. This is an inference from the sourced US tariff data plus the background above.
 
 ### Gaps
 - Tariff sources are predominantly vendor/dropshipping blogs that conflict on rates. No USTR/CBP primary notice for the July 24, 2026 Section 301 action was retrieved. Verify on hts.usitc.gov and USTR.
 - No source mapped country-of-origin shares for specific products (e.g., % of LED masks or pet beds made in China vs. Vietnam).
-- UK OPSS, EU Cosmetics Regulation (CPNP) and Australia TGA/ACCC requirements were not researched in this pass. Australia-specific data is absent.
-- Network blocks: wwd.com, nutraingredients.com and circana.com must be allowed in the session's network settings for full-text verification of the WWD/Circana/NutraIngredients figures cited from search summaries.
+- UK OPSS, EU Cosmetics Regulation (CPNP), EU novel-food/supplement rules, EU €150 duty-exemption removal and UK £135 relief changes could **not be verified**. The search budget was exhausted when the EU/UK scope was added, and official hosts were blocked. All EU/UK regulatory statements outside the GPSR findings are labelled unverified background. Australia-specific data is absent.
+- No EU/UK demand data (beauty, supplements, pet, wellness devices) was obtained beyond one UK perimenopause figure. Europe is co-primary, so this is the largest gap in these notes.
+- Network blocks: these hosts must be allowed in the session's network settings for full-text verification:
+  - wwd.com, nutraingredients.com and circana.com, for the WWD/Circana/NutraIngredients figures cited from search summaries;
+  - taxation-customs.ec.europa.eu, food.ec.europa.eu, single-market-economy.ec.europa.eu, gov.uk and europeanpetfood.org, for EU/UK regulatory and pet-market verification.
