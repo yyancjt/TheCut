@@ -143,8 +143,19 @@ Beauty is TikTok Shop's #1 US category (~$2.08B in H1 2026 per Circana). K-beaut
 - **K-beauty skincare itself is a weak dropship fit.** Brand-led demand (Medicube, Anua) means authorized-reseller and counterfeit risk. Formulas are liquids/creams (leakage, expiry), MoCRA labeling applies, and Korea-origin goods face tariffs (Section 7). White-label "K-beauty style" ingredient products (PDRN, snail mucin, collagen) via US-based fulfillers are more viable.
 - **Fragrance dupes:** the mass fragrance boom (+15%) supports demand. However, "dupe" marketing that names designer brands carries trademark/false-association risk, and liquids/alcohol-based fragrance are hazmat (flammable) for shipping. Treat as a high-risk dropship category.
 - **Hair tools:** high TikTok demand, but the value tier is now owned by branded players (Shark, Laifen). Generic "Dyson dupes" face poor reviews, high returns and electrical-safety (UL/ETL) risk. Mid-risk, mid-reward.
+- **[EU/UK background, unverified in session] EU Cosmetics Regulation (EC) 1223/2009** requires every cosmetic placed on the EU market to have:
+  - an EU-established Responsible Person;
+  - a Cosmetic Product Safety Report signed by a qualified safety assessor and a Product Information File;
+  - notification on the EU CPNP portal before sale;
+  - local-language labelling.
+  GB has a parallel regime: UK Responsible Person plus notification via the UK "Submit Cosmetic Product Notification" (SCPN) service. Northern Ireland follows EU rules. Shipping a China- or Korea-made cream straight to an EU/UK consumer with no EU/UK RP is non-compliant. This is a much higher bar than US MoCRA's small-business exemption, and makes formulated-cosmetic dropshipping into Europe largely unviable without an EU/UK RP-holding supplier.
+- **[EU/UK background, unverified] Nail products:** the EU banned TPO (trimethylbenzoyl diphenylphosphine oxide), a photoinitiator common in gel/UV nail polish, as a CMR substance from 1 Sept 2025 (Omnibus act). Chinese gel-nail kits and some semi-cured "gel" press-ons may contain it. Standard adhesive press-ons are less affected, but suppliers should certify TPO-free for EU sales.
+- **[EU/UK background, unverified] Actives limits:** EU restrictions adopted in 2024 cap retinol/retinyl esters (e.g., 0.3% RE face, 0.05% body), alpha-arbutin/arbutin and kojic acid, with phase-in deadlines in 2025–2027. Some US- or Korea-formulated "high-strength" serums may be non-compliant in the EU.
+- **[EU/UK background, unverified] Beauty devices** (hair dryers, stylers, LED masks, microcurrent) need CE/UKCA electrical conformity plus WEEE/battery EPR registration, as in Section 1. Plug type (EU Type C/F vs. UK Type G) adds SKU complexity, and generic dupes with US plugs are a common EU/UK return driver.
+- **Europe-specific demand:** none of the retrieved sources gave 2026 EU/UK beauty sales. TikTok Shop operates in the UK and several EU markets (Spain, Germany, France, Italy, Ireland), but no TikTok Shop UK/EU category data was obtained.
 
 ### Gaps
+- **EU/UK:** no 2026 European beauty sales data (Cosmetics Europe, Circana EU, NielsenIQ EU), no TikTok Shop UK/EU beauty data, and no verified EU/UK cosmetics regulatory text (blocked).
 - No 2026 data retrieved specifically on J-beauty, beauty fridges, body-care "skinification" growth rates, or fragrance-dupe sales.
 - Circana full release not readable (site blocked); body care, devices and lip sub-category numbers were not retrieved.
 - No Amazon Best Sellers / Movers & Shakers primary data was retrievable; seller-tool aggregators only.
@@ -183,8 +194,16 @@ Creatine (high double- to triple-digit growth, broadening to women), magnesium (
 - **Claims to avoid:** "lowers cortisol", "fixes adrenal fatigue", "GLP-1 / Ozempic alternative", "treats anxiety/ADHD", "cures bloating/IBS", "hormone balancing" for menopause. These are disease or drug-like claims that FDA/FTC actively cite. Structure/function claims need the DSHEA disclaimer and substantiation.
 - **Lower-risk ingestible-adjacent items:** creatine and protein accessories (shaker bottles, scoop funnels, pill organizers, travel supplement cases), magnesium body-spray/lotion (topical cosmetic rather than supplement, though still MoCRA-labeled), and mushroom-coffee gear (frothers, mugs).
 - Creatine for women and magnesium (sleep/stress) are the clearest durable demand signals. Colostrum's growth is from a small base and may be faddish.
+- **[EU/UK background, unverified in session] EU supplement regime is stricter and fragmented:**
+  1. The Food Supplements Directive 2002/46/EC harmonizes only vitamins and minerals. Botanicals and other substances are regulated nationally. Many member states (e.g., Germany, France, Italy, Belgium) require product notification before sale, and maximum doses differ by country.
+  2. The Nutrition and Health Claims Regulation (EC) 1924/2006 allows only claims on the EU authorized register. Magnesium ("contributes to a reduction of tiredness and fatigue", "normal muscle function") and creatine (performance in short-term high-intensity exercise at ~3 g/day for adults) have authorized claims. "Lowers cortisol", "gut healing", "immune boost from colostrum" or "adaptogen" claims generally do not.
+  3. The Novel Food Regulation (EU) 2015/2283 requires pre-authorization for ingredients not significantly consumed in the EU before 15 May 1997. CBD is treated as novel and unauthorized. The status of some mushroom extracts and shilajit should be checked in the EU Novel Food Status Catalogue before selling.
+  4. Some countries have restricted ashwagandha (e.g., Denmark).
+- **[EU/UK background, unverified]** GB has its own register of authorized claims and an FSA novel-food process, broadly mirroring EU rules post-Brexit.
+- **Net inference:** supplement dropshipping into the EU/UK is even less viable than in the US, because of national notifications, local-language labels, claim restrictions and novel-food risk. Supplement accessories (shakers, pill organizers, frothers) are the low-risk European play.
 
 ### Gaps
+- **EU/UK:** no 2026 European supplement sales data (e.g., NielsenIQ EU, Euromonitor) for creatine, magnesium or colostrum. EU novel-food status of shilajit, lion's mane and other mushroom extracts was not verified (food.ec.europa.eu blocked).
 - No 2026 SPINS/NIQ data found for cortisol-support supplements, gut-health/probiotic growth, or women-specific creatine sales.
 - No source directly addressed how FDA/FTC/Amazon treat dropshippers versus brand owners. The inference that the seller/label-named party bears liability needs legal confirmation.
 - No 2026 FTC/FDA action specifically on cortisol, mushroom coffee or gut-health claims was found.
@@ -213,8 +232,11 @@ US pet spending reached ~$158B in 2025 (+3.7%), with APPA projecting ~$165B in 2
 - **Best dropship fits:** enrichment/puzzle toys and lick mats (light, cheap, giftable, not brand-dominated), calming beds and donut beds (light but bulky; ship compressed), orthopedic memory-foam beds (higher AOV; vacuum-packed), grooming tools (deshedding brushes, nail grinders), slow feeders, pet water fountains, travel and car accessories, and pet GPS tracker accessories (cases, collars).
 - **Riskier pet categories:** self-cleaning litter boxes (heavy, bulky, high return/defect rate, safety issues with cats getting trapped, and dominated by Litter-Robot/PetSafe), smart feeders and cameras (electronics returns, app/firmware dependence, FCC compliance), GPS trackers (cellular subscription; Tractive, Fi, Apple AirTag-type dominance), and pet supplements/calming chews (ingestible; FDA-CVM/state feed regulations; animal-drug claims like "treats anxiety" are prohibited).
 - Pet goods from China carry some of the highest stacked tariff exposure in this research (~41.5% per one calculator). This favors US-warehouse dropship suppliers or non-China (Vietnam, India, Thailand) sourcing.
+- **[EU/UK background, unverified in session]** In the EU, pet supplements and calming chews are generally regulated as feed (Regulation (EC) 767/2009 on feed marketing). Claims must not imply preventing or treating disease, or they become veterinary-medicine claims. Pet tech electronics need CE/UKCA plus WEEE/battery EPR. Non-food pet hardgoods (beds, toys, grooming tools) fall under GPSR (EU) and GB general product safety rules, so they need an EU-established responsible economic operator for EU sales (see Section 7).
+- **EU/UK as a market:** non-ingestible pet hardgoods (enrichment toys, beds, grooming tools) are the most portable category across US and Europe. They need no CPNP-like notification and no claims authorization, only GPSR/UK product safety, labelling and EPR (packaging) obligations.
 
 ### Gaps
+- **EU/UK:** no European pet-market size or growth data was obtained. FEDIAF/European Pet Food statistics (europeanpetfood.org) and UK PFMA/UK Pet Food data were blocked or not searched.
 - No 2026 data found specifically on orthopedic pet beds, enrichment toys or pet cameras.
 - No APPA dollar breakdown for supplies/OTC meds or pet tech in 2026 (full report not accessed).
 - No Packaged Facts 2026 data retrieved.
@@ -255,8 +277,15 @@ Menopause and perimenopause is a growing, under-served niche (~8–12% forecast 
 - **Menopause: best dropship fits are non-ingestible comfort products.** These include cooling pillows and sheets, bedside/neck fans, cooling towels, menopause-friendly sleepwear, and vaginal-dryness-adjacent cosmetic moisturizers (note that some vaginal products are FDA medical devices or drugs). Avoid "hormone balancing" supplements and claims.
 - **Baby:** many items are regulated "children's products" under CPSIA. They need a Children's Product Certificate, third-party testing by a CPSC-accepted lab, and tracking labels. Infant sleep products fall under the Safe Sleep for Babies Act (inclined sleepers and crib bumpers banned) and 16 CFR 1218/1241-type standards. This is general regulatory knowledge, not sourced in this pass, and should be verified. **Weighted infant sleep sacks, baby loungers and infant pillows are high-liability and should be avoided.** Safer: maternity support belts, nursing covers, diaper bags, baby-food prep tools (with food-contact compliance), and nursery decor that isn't a sleep product.
 - **Aging/mobility:** good fits are light, low-liability aids such as reachers/grabbers, sock aids, jar openers, pill organizers, bed rails (caution: bed rails have entrapment risk and FDA/CPSC standards), shower chairs (bulky), and LED night-lights. Avoid powered mobility (scooters, lift chairs): heavy, high liability, and medical-device rules.
+- **EU/UK menopause signal:** the only sourced European data point is the UK +8% sales gain in perimenopause botanical lines (Jan 2026; FMI citing a UK trade group, above). The UK is generally seen as an early-adopter market for menopause products. That is background, not sourced here.
+- **[EU/UK background, unverified in session]**
+  - Baby sleep bags in the EU are covered by EN 16781 (children's sleep bags) under GPSR.
+  - Childcare articles must meet GPSR and relevant EN standards.
+  - Many mobility aids (walking aids, some bathroom aids) are Class I medical devices under the EU MDR / UK MDR 2002. They need a manufacturer's CE/UKCA declaration and an EU Authorised Representative / UK Responsible Person if the maker is non-EU/UK.
+  - This makes generic-import mobility aids harder to sell compliantly in Europe than in the US, where many are FDA Class I 510(k)-exempt but still require establishment registration and listing by the manufacturer.
 
 ### Gaps
+- **EU/UK:** no European market data for menopause, baby/maternity or mobility products beyond the single UK perimenopause figure. No verified EU/UK baby-product or MDR text (blocked).
 - No US scanner (NIQ/Circana) data on menopause products, baby or mobility aids in 2026. All figures are syndicated forecasts.
 - No product-level demand data for menopause cooling products or pelvic-floor trainers.
 - Baby-product compliance specifics (CPSIA/CPC) were not sourced in this pass; noted from general knowledge only.

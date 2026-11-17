@@ -61,15 +61,21 @@ The US consumer in November 2026 is spending in nominal terms but under real str
 - ETA/TSG survey: one-fifth of consumers expect to use BNPL **more** this holiday season than last — [Payments Dive](https://paymentsdive.com/news/bnpl-bolsters-holiday-budgets-survey/873390)
 - Adobe measured a record **$20B** of BNPL online spend over the 2025 holiday season (+9.8% YoY), with Cyber Monday 2025 above $1B **[older]** — [PaymentsJournal](https://www.paymentsjournal.com/ai-and-bnpl-keep-holiday-spending-on-record-pace/). NerdWallet: 18% of shoppers, and 35% of Gen Z, used BNPL for 2025 holiday purchases **[older]** — [ShopBack](https://www.shopback.com/blog/finance/us-2026-holiday-shopping-bnpl-vs-credit-card-strategy)
 
-**International snapshot**
-- **UK:** GfK consumer confidence fell to **-24** in October 2026 — [ShopAppy](https://shopappy.com/?p=12871). Omnisend forecasts UK Black Friday/Cyber Monday spend **down 32% to £9.9bn** even as participation rises — [Retail Gazette, Nov 2026](https://www.retailgazette.co.uk/blog/2026/11/black-friday-discount/). Adobe forecasts UK Nov-Dec online spend of **£28.52bn (+6.2%)** — [Retail Tech Innovation Hub](https://retailtechinnovationhub.com/home/2026/11/5/brits-set-for-record-2852-billion-festive-online-spend-amid-surge-in-ai-driven-shopping). Barclays: 45% of Black Friday participants plan to buy Christmas gifts in the sales — [Retail Times](https://retailtimes.co.uk/barclays-uk-shoppers-set-to-spend-10-2bn-in-the-black-friday-sales/). PwC: interest in Black Friday has softened, but per-head spend should rise, led by younger shoppers and tech — [LBC](https://www.lbc.co.uk/article/when-black-friday-2026-5HjdjcT_2/)
-- **Global:** Euromonitor's 2026 "Comfort Zone" trend: 58% of consumers experience moderate to extreme stress daily — [Euromonitor](https://www.euromonitor.com/newsroom/press-releases/november-2025/euromonitor-international-unveils-global-consumer-trends-for-2026)
+**Europe (UK + EU), co-primary market**
+- **UK confidence:** GfK UK consumer confidence fell to **-24 in October 2026**, flagged as a warning sign for big-ticket Christmas spending — [ShopAppy](https://shopappy.com/?p=12871)
+- **UK cost of living and footfall:** footfall is down YoY as inflation and household bills keep people at home. Cost-of-living pressure is pushing shoppers to use Black Friday to pre-buy Christmas gifts — [LBC](https://www.lbc.co.uk/article/when-black-friday-2026-5HjdjcT_2/); [Mintel](https://www.mintel.com/press-centre/christmas-shoppers-to-leave-it-late-this-year/)
+- **UK value-seeking:** Omnisend says UK shoppers are cutting Black Friday budgets by about a third, and warns that deep discount wars risk backfiring — [Retail Gazette, Nov 2026](https://www.retailgazette.co.uk/blog/2026/11/black-friday-discount/)
+- **UK "fewer, bigger" pattern:** PwC says overall interest in Black Friday has softened but average spend per head should rise, driven by younger shoppers and tech — [LBC](https://www.lbc.co.uk/article/when-black-friday-2026-5HjdjcT_2/)
+- **Europe-wide consumer pressure (pre-World Cup):** one report noted consumer spending in many countries remains under pressure from inflation, higher borrowing costs and slower growth — [Retail Insight Network](https://www.retail-insight-network.com/news/retailers-pin-sales-hopes-on-world-cup-boost/)
+- **Global stress backdrop:** Euromonitor's 2026 "Comfort Zone" trend says 58% of consumers experience moderate to extreme daily stress. Its "Next Asian Wave" trend says Chinese brands are winning globally on affordability and digital-first experiences, with China forecast to export $4T in 2026. Both are directly relevant to EU marketplaces where Temu, Shein and AliExpress compete — [Euromonitor](https://www.euromonitor.com/newsroom/press-releases/november-2025/euromonitor-international-unveils-global-consumer-trends-for-2026)
+- **EU mainland (DE/FR/NL/ES/IT/Nordics):** no 2026 inflation, confidence or retail data could be gathered (search budget exhausted). See Gaps.
 
 ### Inferences
 - Real (inflation-adjusted) consumer purchasing power is roughly flat to negative for the median household: wages +3.1% vs CPI 3.7%, plus a gasoline tax-like drag of hundreds of dollars per household. Nominal sales growth in 2026 is materially flattered by price increases.
 - For dropshippers, the tariff regime is no longer the 2025 IEEPA chaos. It is now a broad, persistent ~10-12.5% Section 301 layer, plus China-specific 301s and Section 232 metals duties. This raises landed costs on nearly all imported goods and keeps retail price points creeping up, which reinforces the dupe and value positioning of most dropship assortments.
 - Value-seeking has spread up the income ladder: 55+ dupe buyers, and higher-income shoppers buying private label. "Premium look at a lower price" (dupe or alternative) products have a wider addressable market than in prior years.
 - A Fed tilted toward hikes, plus rising BNPL reliance among middle- and lower-income shoppers, means credit-funded holiday spending carries late-Q1 2027 payback risk (returns, chargebacks, weaker January).
+- **Europe:** UK sentiment is clearly weak (GfK -24) and Black Friday budgets are shrinking. Expect UK demand to be more deal-dependent and less big-ticket than the US, which suits low-ticket dropship gifting. Europe is a large net energy importer, so the 2026 Iran-war oil shock likely hit EU household energy bills and confidence at least as hard as the US. This is an inference only; no 2026 EU energy-price data was gathered. Unlike US sellers, EU and UK sellers do not face the US Section 301 layer, but they face their own changing low-value-import rules (see Gaps).
 
 ### Gaps
 - No official BLS YoY CPI for October 2026, and no category-level CPI detail (apparel, toys, furniture, electronics) was retrievable. A primary-source BLS fetch was not possible.
@@ -78,6 +84,17 @@ The US consumer in November 2026 is spending in nominal terms but under real str
 - Final November UMich sentiment (due 20 Nov) and Conference Board figures were not captured.
 - A reported "1.9 million layoffs in October" appears to come from a 2025 article and was excluded.
 - Canada and Australia macro conditions were not researched in depth. Only a Deloitte Australia "Peak season, peak stakes" report title (Aug 2026) surfaced, with no data — [Deloitte AU](https://www.deloitte.com/au/en/about/press-room/retail-report-2026-peak-season-peak-stakes-270826.html).
+- **Europe, priority follow-ups (not gathered; search budget exhausted):**
+  - Eurostat euro-area HICP flash for October 2026 (headline, core, energy, non-energy industrial goods) and country prints for Germany, France, the Netherlands, Spain and Italy.
+  - UK ONS CPI for October 2026 (due mid-November) and the Bank of England rate path.
+  - ECB policy rate as of its late-October 2026 meeting.
+  - European Commission flash consumer confidence (EU and euro area, October and November 2026).
+  - National confidence indices: GfK Germany Konsumklima, INSEE France, CBS Netherlands, ISTAT Italy, CIS/Spain, and the Nordic indices.
+  - EU and UK unemployment rates.
+  - How the 2026 oil shock passed through to EU energy bills.
+  - EU and UK BNPL usage and regulation status (UK BNPL regulation timing).
+  - The EU dupe and private-label share (private label is structurally higher in DE, NL and ES via Aldi/Lidl, but no 2026 figure was gathered).
+- **EU low-value import regime (critical for dropshipping):** this research did not verify the 2026 status of the EU's removal of the €150 customs-duty exemption, the proposed flat per-item duty or handling fee on low-value parcels, or UK changes to its £135 low-value import threshold. Prior knowledge suggests EU reform was scheduled to start in 2026, but this is unverified and must be confirmed before use.
 
 ---
 
